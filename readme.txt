@@ -4,4 +4,4 @@ $ git add readme.txt
 管理修改1
 管理修改2
 关联了github
-Creating a new branch is quick.
+Creating a new branch is quick & simple.
