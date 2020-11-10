@@ -1,4 +1,4 @@
-$ git add readme.txt
+$ git add readme.txt aaa.
 哈哈哈
 暂存区
 管理修改1
